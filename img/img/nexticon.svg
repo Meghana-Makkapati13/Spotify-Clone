@@ -1,0 +1,7 @@
+<svg id="nextButtonInPlaybar" class="prev_next" width="69" height="50" viewBox="0 0 69 50"
+    xmlns="http://www.w3.org/2000/svg">
+    <!-- Right-pointing triangle -->
+    <polygon points="20,10 40,25 20,40" fill="gray" />
+    <!-- Vertical bar on the right -->
+    <rect x="42" y="10" width="5" height="30" fill="gray" />
+</svg>

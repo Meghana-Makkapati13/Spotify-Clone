@@ -1,0 +1,7 @@
+<svg id="prevButtonInPlaybar" class="prev_next" width="69" height="50" viewBox="0 0 69 50"
+    xmlns="http://www.w3.org/2000/svg">
+    <!-- Single left-pointing triangle -->
+    <polygon points="45,10 25,25 45,40" fill="gray" />
+    <!-- Vertical bar -->
+    <rect x="20" y="10" width="5" height="30" fill="gray" />
+</svg>
